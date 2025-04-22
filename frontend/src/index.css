@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+:root {
+  --background: #0F172A;
+  --foreground: #E2E8F0;
+  --primary: #7C3AED;
+  --secondary: #1E40AF;
+  --accent: #EC4899;
+  --destructive: #EF4444;
+}
